@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Доступные ранги: S (топ 1%), A+ (12,5%), A (25%), A- (37,5%), B+ (50%), B (62,5%), B- (75%), C+ (87,5%) и C (все).
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StaticNur&show_icons=true&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=StaticNur)
+
+![StaticNur's GitHub stats](https://github-readme-stats.vercel.app/api?username=StaticNur&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StaticNur&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=tokyonight)](https://github.com/StaticNur/github-readme-stats)
